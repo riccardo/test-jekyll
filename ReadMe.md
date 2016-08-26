@@ -7,6 +7,9 @@ Some tests with jekyll themes, namely:
 - Skinny Bones
 	- https://github.com/mmistakes/skinny-bones-jekyll
 	- https://mmistakes.github.io/skinny-bones-jekyll/	
+- so-simple
+	- https://github.com/mmistakes/so-simple-theme
+
 
 # To be evaluated yet
 
